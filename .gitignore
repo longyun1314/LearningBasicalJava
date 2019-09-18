@@ -1,0 +1,5 @@
+lib/
+.project
+node_modules/
+.class
+bin/
