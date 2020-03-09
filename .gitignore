@@ -3,3 +3,6 @@ lib/
 node_modules/
 .class
 bin/
+.idea/
+.gitignore
+out/
