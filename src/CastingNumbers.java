@@ -18,3 +18,4 @@ public class CastingNumbers {
 (int)fabove: 0
 (int)fbelow: 0
 *///:~
+/** float或者double转化为整型值时，直接对数字执行结尾，要想得到舍入的结果，需要使用math的round方法*/

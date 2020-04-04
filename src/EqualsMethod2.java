@@ -15,3 +15,5 @@ public class EqualsMethod2 {
 } /* Output:
 false
 *///:~
+
+/** equals默认比较对象的引用， 除非该对象重写了equals方法,使其比较对象内容*/

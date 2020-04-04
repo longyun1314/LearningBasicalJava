@@ -11,3 +11,5 @@ public class Equivalence {
 false
 true
 *///:~
+
+/** == !=比较的是对象的引用*/
